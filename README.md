@@ -27,7 +27,7 @@ A responsive React application that allows users to explore popular travel desti
 
 ## 🌐 Live Demo
 
-🔗 https://react-tour-cards-8rzj4u8ew-arsh173.vercel.app/
+https://react-tour-cards-kappa.vercel.app/
 
 ## 📂 Project Structure
 
